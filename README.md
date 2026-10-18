@@ -21,8 +21,6 @@ React · React Native (Expo) · Next.js · TypeScript · Node.js · Design syste
 | [**world-porra**](https://github.com/pabloibanezcom/world-porra) | World Cup 2026 score-prediction game with private leagues and leaderboards | Expo · Node.js · MongoDB |
 | [**ha-wallpanel**](https://github.com/pabloibanezcom/ha-wallpanel) | Custom Home Assistant wall dashboard | React · Vite · TypeScript |
 | [**uponor-api**](https://github.com/pabloibanezcom/uponor-api) | REST API to control Uponor Smatrix Pulse heating and cooling | REST API |
-| [**react-tube-kit**](https://github.com/pabloibanezcom/react-tube-kit) | UI kit for React apps: components, helpers and styles | React |
-
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo--ibanez--tech-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ibanez-tech/)
