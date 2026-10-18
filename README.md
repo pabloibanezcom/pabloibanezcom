@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo 👋
 
-Tech Lead based in London with 15+ years building web and mobile products. I lead engineering teams, shape frontend architecture, and these days spend a lot of time on how teams adopt AI-assisted development without losing alignment.
+Engineering leader specialising in scalable systems and AI-assisted development workflows. I build and guide high-performing teams, applying clean architecture and modern AI tooling to deliver reliable, high-impact products at speed.
 
 - 🔭 **Now:** Tech Lead at Econify, working on a streaming technology platform
 - 🎤 **Speaking:** [TechLeadConf London 2026](https://techleadconf.com/), *One Team, Many AIs*
