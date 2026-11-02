@@ -1,4 +1,4 @@
-### Hi, I'm Pablo 👋
+### Hi, I'm Pablo
 
 Engineering leader specialising in scalable systems and AI-assisted development workflows. I build and guide high-performing teams, applying clean architecture and modern AI tooling to deliver reliable, high-impact products at speed.
 
